@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Juníor`**
 
-Olá me chamo Victor Hugo Santos Brandão e estudo programação desde 2023, procuro no githhub maneiras de aprimorar minhas habilidades e estou sempre disposto a aprender algo novo de programação tambem ajudando a comunidade, esse repositorio serve como portifolio para projetos simples.
+Olá me chamo Victor Hugo Santos Brandão e estudo programação desde 2023, procuro no githhub maneiras de aprimorar minhas habilidades e estou sempre disposto a aprender algo novo sobre programação tambem espero conseguir ajudar a comunidade, esse repositorio serve como portifolio para projetos simples.
 
 <p align="left">
 
